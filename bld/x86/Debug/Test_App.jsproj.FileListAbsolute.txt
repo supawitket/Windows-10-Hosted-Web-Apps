@@ -1,0 +1,16 @@
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bin\x86\Debug\ReverseMap\resources.pri
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bin\x86\Debug\AppxManifest.xml
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bin\x86\Debug\Test_App.build.appxrecipe
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\ResourceHandlingTask.state
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\priconfig.xml
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\priconfig.xml.intermediate
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\layout.resfiles
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\layout.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\resources.resfiles
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\resources.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\pri.resfiles
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\pri.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\qualifiers.txt
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\qualifiers.txt.intermediate
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\mac\home\documents\visual studio 2015\Projects\Test_App\Test_App\bld\x86\Debug\ProjectArchitectures.txt
