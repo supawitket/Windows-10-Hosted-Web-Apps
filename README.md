@@ -11,3 +11,8 @@ https://github.com/supawitket/Access-Windows-10-Native-API-through-JavaScript
 
 Video Tutorial on how to create a Windows-10-hosted-web application from scratch:
 https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Thailand-Influencer-Showcase/05-Supawit-Ket-udom-Create-a-hosted-web-apps-that-access-native-API-from-Windows-10
+
+
+For furthure information:
+Supawit Ket-udom (Bright)
+SupawitKet@outlook.com
